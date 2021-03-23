@@ -12,7 +12,11 @@ h1{
   color: grey;
   font-family:'Montserrat', sans-serif;
   font-size: 35px;
-  line-height: 2.0;
+  line-height: 1.6;
+}
+
+p {
+  color: #ff5757;
 }
 
 
@@ -35,16 +39,25 @@ a:hover{
 }
 
 img{
-  border-radius: 60%;
-  height: 200px;
-  width: 300px,
+  border-radius: 5%;
+  height: 240px;
+  width: 180px;
 }
 
-.container{
+.CV{
   width: 700px;
   margin: 0 auto;
 }
-.card{
+.profile{
+  background: white;
+  border-radius:2px;
+  box-shadow:0px 10px 30px #777DA0;
+}
+
+.details {
+  display: flex;
+}
+.socialmedia {
   background: white;
   border-radius:2px;
   box-shadow:0px 10px 30px #777DA0;
