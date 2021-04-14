@@ -32,21 +32,8 @@ a:hover{
   color: #777DA0;
 }
 
-.btn-blue{
-  background-color: #493782;
-  color: white;
-  padding: 15px 20px;
-  border-radius: 4px;
-}
-
-img{
-  border-radius: 5px;
-  height: 350px;
-  width: 240px;
-}
-
 .CV{
-  margin: 5px 200px;
+  margin: 5px 50px;
 }
 .profile {
   background-color: #f4f4f4;
@@ -73,9 +60,12 @@ font-size: 20px;
   margin-right: 50px;
 }
 
-.profilepic {
+.profilepic img {
   margin-left: 100px;
   margin-top: 120px;
+  border-radius: 5px;
+  height: 350px;
+  width: 240px;
 }
 
 .employement {
@@ -87,6 +77,8 @@ font-size: 20px;
   background: white;
   border-radius: 4px;
   box-shadow:0px 10px 30px #777DA0;
+  margin-top: 10px;
+  padding-top: 5px;
 }
 
 .text_center{
@@ -96,7 +88,7 @@ font-size: 20px;
 ul{
   list-style: none;
   padding-left: 0px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 
 }
 
@@ -120,24 +112,4 @@ ul li{
     width: 300px;
  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
