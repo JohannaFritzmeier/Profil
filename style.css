@@ -4,20 +4,21 @@ body{
   background-color: #ffe8e5;
   font-family:'Montserrat', sans-serif;
   color: grey;
-  font-size: 20px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.1;
 }
 
-h1{
+h1 {
   color: grey;
   font-family:'Montserrat', sans-serif;
   font-size: 35px;
   line-height: 1.6;
 }
 
-p {
+
+.employement p {
   color: #ff5757;
-  line-height: 1.1;
+  line-height: 1.0;
 }
 
 
@@ -28,7 +29,7 @@ a{
 }
 
 a:hover{
-  color: #3F58B3;
+  color: #777DA0;
 }
 
 .btn-blue{
@@ -54,6 +55,13 @@ img{
 }
 
 .title {
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.title p {
+color: #ff5757;
+font-size: 20px;
 }
 
 .details {
@@ -67,11 +75,12 @@ img{
 
 .profilepic {
   margin-left: 100px;
-  margin-top: 160px;
+  margin-top: 120px;
 }
 
 .employement {
   margin-left: 20px;
+  padding-right: 15px;
 }
 
 .socialmedia {
