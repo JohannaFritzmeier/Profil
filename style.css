@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 body{
-  background-color: #ffe8e5;
+  background-color: #90b6cc;
   font-family:'Montserrat', sans-serif;
   color: grey;
   font-size: 16px;
@@ -17,13 +17,13 @@ h1 {
 
 
 .employement p {
-  color: #ff5757;
+  color: #3688b8;
   line-height: 1.0;
 }
 
 
 a{
-  color: #ff5757;
+  color: #3688b8;
   text-decoration: none;
   font-weight: 500;
 }
@@ -47,7 +47,7 @@ padding-bottom: 15px;
 }
 
 .title p {
-color: #ff5757;
+color: #3688b8;
 font-size: 20px;
 }
 
